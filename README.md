@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=219EFE&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Luis+Sanmiguel's+repository.+Welcome;Nice+to+meet+you;%22The+Information+is+Freedom%22+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
+---
 ### Mi actividad en GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jluis5&show_icons=true&theme=dark)
 <!--
