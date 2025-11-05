@@ -10,7 +10,7 @@
 
 ---
 
-### 📡 // Frameworks y Libraries
+### 📡 // Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=00FFFF&color=1A1A1A)![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=00FF00&color=1A1A1A)![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF00&color=1A1A1A)![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00FF00&color=1A1A1A)
 
 ---
@@ -27,8 +27,7 @@
 
 ---
 ## 📊 // Datalog: 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jluis5&show_icons=true&theme=dark)                      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jluis5&layout=compact&theme=dracula&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jluis5&show_icons=true&theme=dark)                      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jluis5&layout=compact&theme=dracula&hide_border=true&langs_count=8)
 <!--
 **Jluis5/Jluis5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
