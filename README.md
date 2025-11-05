@@ -3,7 +3,7 @@
 </p>
 ---
 
-### 💻 // CODE_LANGUAGES: 
+### 💻 // Code Lenguages: 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&color=1A1A1A)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=00FF00&color=1A1A1A)![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00FF00&color=1A1A1A)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00FF00&color=1A1A1A)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=00FF00&color=1A1A1A)![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=00FF00&color=1A1A1A)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=00FF00&color=1A1A1A)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=00FF00&color=1A1A1A)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=00FFFF&color=1A1A1A)![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=00FF00&color=1A1A1A)
 
