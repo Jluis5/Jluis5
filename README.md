@@ -26,8 +26,7 @@
 
 ---
 ## 📊 // DATALOG: 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jluis5&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jluis5&layout=compact&theme=dracula&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jluis5&show_icons=true&theme=dark)                      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jluis5&layout=compact&theme=dracula&hide_border=true&langs_count=8)
 <!--
 **Jluis5/Jluis5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
