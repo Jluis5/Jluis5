@@ -1,5 +1,6 @@
 ## Hi there 👋
-https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+### Mi actividad en GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
 <!--
 **Jluis5/Jluis5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
