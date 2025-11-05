@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=550&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Luis+Sanmiguel's+repository+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Welcome+%26+Nice+to+meet+you+%F0%9F%A7%A0;%22The+Information+is+Freedom%22+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 💻 // Code Lenguages: 
