@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Mi actividad en GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jluis5&show_icons=true&theme=dark)
 <!--
 **Jluis5/Jluis5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
