@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 <!--
 **Jluis5/Jluis5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
