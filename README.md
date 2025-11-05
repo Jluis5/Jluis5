@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=219EFE&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Luis+Sanmiguel's+repository.+Welcome;Nice+to+meet+you;%22The+Information+is+Freedom%22+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=490&lines=Hello%2C+Hacker!+%F0%9F%91%8B;Initializing+secure+repository...;This+is+Luis+Sanmiguel's+Matrix;Welcome%2C+fellow+cyber-naut!;%22The+Information+is+Freedom%22+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
+
+---
 
 ---
 ### Mi actividad en GitHub
